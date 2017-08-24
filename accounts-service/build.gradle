@@ -124,4 +124,4 @@ jar { baseName = 'accounts' }
 description = "Micro-service to deal with accounts and user logins"
 
 
-task wrapper(type: Wrapper) { gradleVersion = '2.12' }
+task wrapper(type: Wrapper) { gradleVersion = '4.1' }

@@ -117,4 +117,4 @@ repositories {
 	jar { baseName = 'web' }
 	description = "Web interface to the springboot set of services"
 
-task wrapper(type: Wrapper) { gradleVersion = '2.12' }
+task wrapper(type: Wrapper) { gradleVersion = '4.1' }

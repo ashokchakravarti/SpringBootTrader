@@ -118,4 +118,4 @@ processResources {
 jar { baseName = 'quotes' }
 description = "Micro-service to retrieve up to date quotes"
 
-task wrapper(type: Wrapper) { gradleVersion = '2.12' }
+task wrapper(type: Wrapper) { gradleVersion = '4.1' }
